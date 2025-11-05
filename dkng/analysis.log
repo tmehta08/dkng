@@ -1,0 +1,50 @@
+2025-11-05 12:24:47.710 | INFO     | __main__:<module>:15 - Starting DKNG stock analysis
+2025-11-05 12:24:47.710 | INFO     | __main__:<module>:27 - Fetching DKNG data from 2023-11-06 to 2025-11-05...
+2025-11-05 12:24:48.566 | INFO     | __main__:<module>:92 - Fetching fundamental 10-K data...
+2025-11-05 12:24:49.723 | INFO     | __main__:<module>:113 - ============================================================
+2025-11-05 12:24:49.724 | INFO     | __main__:<module>:114 - DKNG STOCK ANALYSIS - DKNG
+2025-11-05 12:24:49.724 | INFO     | __main__:<module>:115 - ============================================================
+2025-11-05 12:24:49.724 | INFO     | __main__:<module>:117 - Current Price: $28.61
+2025-11-05 12:24:49.724 | INFO     | __main__:<module>:118 - 52-Week High: $53.49
+2025-11-05 12:24:49.725 | INFO     | __main__:<module>:119 - 52-Week Low:  $28.61
+2025-11-05 12:24:49.725 | INFO     | __main__:<module>:120 - Sharpe Ratio: -0.00
+2025-11-05 12:24:49.725 | INFO     | __main__:<module>:121 - Max Drawdown: -46.51%
+2025-11-05 12:24:49.725 | INFO     | __main__:<module>:122 - Relative Performance vs SPY: -48.73%
+2025-11-05 12:24:49.725 | INFO     | __main__:<module>:125 - Market Cap: $14,204,009,472
+2025-11-05 12:24:49.726 | INFO     | __main__:<module>:129 - EPS: -0.65
+2025-11-05 12:24:49.726 | INFO     | __main__:<module>:131 - Sector: Consumer Cyclical
+2025-11-05 12:25:23.803 | INFO     | __main__:<module>:146 - Analysis complete.
+2025-11-05 12:26:44.293 | INFO     | __main__:<module>:24 - Starting AAPL stock analysis
+2025-11-05 12:26:44.293 | INFO     | __main__:<module>:32 - Fetching AAPL data from 2023-11-06 to 2025-11-05...
+2025-11-05 12:26:45.252 | INFO     | __main__:<module>:96 - Fetching fundamental 10-K data...
+2025-11-05 12:26:46.369 | INFO     | __main__:<module>:118 - ============================================================
+2025-11-05 12:26:46.369 | INFO     | __main__:<module>:119 - STOCK ANALYSIS - AAPL
+2025-11-05 12:26:46.370 | INFO     | __main__:<module>:120 - ============================================================
+2025-11-05 12:26:46.370 | INFO     | __main__:<module>:122 - Current Price: $270.04
+2025-11-05 12:26:46.370 | INFO     | __main__:<module>:123 - 52-Week High: $271.40
+2025-11-05 12:26:46.371 | INFO     | __main__:<module>:124 - 52-Week Low:  $172.00
+2025-11-05 12:26:46.371 | INFO     | __main__:<module>:125 - Sharpe Ratio: 0.89
+2025-11-05 12:26:46.371 | INFO     | __main__:<module>:126 - Max Drawdown: -33.36%
+2025-11-05 12:26:46.371 | INFO     | __main__:<module>:127 - Relative Performance vs SPY: -4.31%
+2025-11-05 12:26:46.371 | INFO     | __main__:<module>:130 - Market Cap: $3,990,206,545,920
+2025-11-05 12:26:46.372 | INFO     | __main__:<module>:132 - P/E Ratio: 36.25
+2025-11-05 12:26:46.372 | INFO     | __main__:<module>:134 - EPS: 7.45
+2025-11-05 12:26:46.372 | INFO     | __main__:<module>:136 - Sector: Technology
+2025-11-05 12:26:53.118 | INFO     | __main__:<module>:151 - Analysis complete.
+2025-11-05 12:27:01.366 | INFO     | __main__:<module>:24 - Starting NVDA stock analysis
+2025-11-05 12:27:01.366 | INFO     | __main__:<module>:32 - Fetching NVDA data from 2023-11-06 to 2025-11-05...
+2025-11-05 12:27:02.169 | INFO     | __main__:<module>:96 - Fetching fundamental 10-K data...
+2025-11-05 12:27:03.033 | INFO     | __main__:<module>:118 - ============================================================
+2025-11-05 12:27:03.034 | INFO     | __main__:<module>:119 - STOCK ANALYSIS - NVDA
+2025-11-05 12:27:03.034 | INFO     | __main__:<module>:120 - ============================================================
+2025-11-05 12:27:03.034 | INFO     | __main__:<module>:122 - Current Price: $198.69
+2025-11-05 12:27:03.035 | INFO     | __main__:<module>:123 - 52-Week High: $207.04
+2025-11-05 12:27:03.035 | INFO     | __main__:<module>:124 - 52-Week Low:  $94.30
+2025-11-05 12:27:03.035 | INFO     | __main__:<module>:125 - Sharpe Ratio: 1.72
+2025-11-05 12:27:03.035 | INFO     | __main__:<module>:126 - Max Drawdown: -36.88%
+2025-11-05 12:27:03.035 | INFO     | __main__:<module>:127 - Relative Performance vs SPY: 173.32%
+2025-11-05 12:27:03.035 | INFO     | __main__:<module>:130 - Market Cap: $4,837,505,761,280
+2025-11-05 12:27:03.036 | INFO     | __main__:<module>:132 - P/E Ratio: 56.45
+2025-11-05 12:27:03.036 | INFO     | __main__:<module>:134 - EPS: 3.52
+2025-11-05 12:27:03.036 | INFO     | __main__:<module>:136 - Sector: Technology
+2025-11-05 12:27:16.415 | INFO     | __main__:<module>:151 - Analysis complete.
